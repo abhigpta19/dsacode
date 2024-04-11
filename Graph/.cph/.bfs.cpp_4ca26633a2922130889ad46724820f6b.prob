@@ -1,0 +1,1 @@
+{"name":"Local: bfs","url":"/home/abhi/Downloads/CP/Ladder/Topic/Graph/bfs.cpp","tests":[{"id":1712835199051,"input":"5 3\n1 3\n1 2\n4 5\n1 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/abhi/Downloads/CP/Ladder/Topic/Graph/bfs.cpp","group":"local","local":true}
